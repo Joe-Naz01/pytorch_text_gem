@@ -1,0 +1,5 @@
+torch>=2.2
+transformers>=4.44
+torchmetrics>=1.4
+jupyterlab>=4.0
+ipykernel>=6.29
